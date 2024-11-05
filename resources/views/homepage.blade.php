@@ -10,7 +10,6 @@
         <img src="{{ asset('img/bannerLaundry.jpg') }}" alt="bannerLaundry" class="w-full object-fill opacity-60">
         <div class="absolute top-0 left-0 p-6">
           <h2 class="text-2xl font-semibold">Laundry</h2>
-          <p class="mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           <a href="#" class="mt-4 inline-block bg-blue-500 text-white px-4 py-2 rounded">Shop Now →</a>
         </div>
       </div>
@@ -19,7 +18,6 @@
           <img src="{{ asset('img/Housekeeping.avif') }}" alt="HouseKeeping" class="w-full h-32 object-cover opacity-60">
           <div class="absolute top-0 left-0 p-6">
             <h2 class="text-lg font-semibold">House Keeping</h2>
-            <p class="mt-2">Lorem ipsum dolor sit amet.</p>
             <a href="#" class="mt-1 inline-block bg-blue-500 text-white px-4 py-1 rounded">Shop Now →</a>
           </div>
         </div>
@@ -27,7 +25,6 @@
           <img src="{{ asset('img/PhotographyBanner.avif') }}" alt="Photography" class="w-full h-32 object-cover opacity-50">
           <div class="absolute top-0 left-0 p-6">
             <h2 class="text-lg font-semibold">Photography</h2>
-            <p class="mt-2">Lorem ipsum dolor sit amet.</p>
             <a href="#" class="mt-1 inline-block bg-blue-500 text-white px-4 py-1 rounded">Shop Now →</a>
           </div>
         </div>
