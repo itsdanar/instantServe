@@ -50,5 +50,9 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 });
 
+Route::get('/edit-toko', function () {
+    return view('edit-toko');
+});
+
 Route::get('/', [GlobalController::class, 'index'])->name('index');
 Route::get('/search', [GlobalController::class, 'Search'])->name('search');
