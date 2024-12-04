@@ -143,6 +143,23 @@
     </div>
 </div>
 
+<script>
+    document.querySelectorAll('.dropdown-btn').forEach(button => {
+        button.addEventListener('click', () => {
+            const dropdown = button.nextElementSibling;
+            dropdown.classList.toggle('hidden');
+        });
+    });
+
+    document.querySelectorAll('.day-container').forEach(dayContainer => {
+        const cardContainer = dayContainer.querySelector('.card-container');
+        const noDataMessage = dayContainer.querySelector('.no-data');
+        if (cardContainer.children.length === 0) {
+            noDataMessage.classList.remove('hidden');
+        }
+    });
+</script>
+
 </body>
 
 </html>

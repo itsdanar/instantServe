@@ -54,5 +54,9 @@ Route::get('/edit-toko', function () {
     return view('edit-toko');
 });
 
+Route::get('/upload-pesanan', function () {
+    return view('upload-pesanan');
+});
+
 Route::get('/', [GlobalController::class, 'index'])->name('index');
 Route::get('/search', [GlobalController::class, 'Search'])->name('search');

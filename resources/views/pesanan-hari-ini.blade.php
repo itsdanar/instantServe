@@ -21,31 +21,37 @@
                 <h3 class="font-semibold">Caca</h3>
                 <p><strong>Tanggal:</strong> 2024-10-20</p>
                 <p><strong>Deskripsi:</strong> Cuci dan Setrika.</p>
+                <p><strong>No Telepon:</strong> 081238278881</p>
             </div>
             <div class="card border border-gray-300 rounded p-4 hover:shadow-lg transition-transform transform hover:scale-105" style="background-color: #81D8D0;">
                 <h3 class="font-semibold">Chadeva</h3>
                 <p><strong>Tanggal:</strong> 2024-10-20</p>
                 <p><strong>Deskripsi:</strong> Setrika.</p>
+                <p><strong>No Telepon:</strong> 081238278882</p>
             </div>
             <div class="card border border-gray-300 rounded p-4 hover:shadow-lg transition-transform transform hover:scale-105" style="background-color: #81D8D0;">
                 <h3 class="font-semibold">Dira</h3>
                 <p><strong>Tanggal:</strong> 2024-10-20</p>
                 <p><strong>Deskripsi:</strong> Setrika.</p>
+                <p><strong>No Telepon:</strong> 081238278883</p>
             </div>
             <div class="card border border-gray-300 rounded p-4 hover:shadow-lg transition-transform transform hover:scale-105" style="background-color: #81D8D0;">
                 <h3 class="font-semibold">Indira</h3>
                 <p><strong>Tanggal:</strong> 2024-10-20</p>
                 <p><strong>Deskripsi:</strong> Cuci dan Setrika.</p>
+                <p><strong>No Telepon:</strong> 081238278884</p>
             </div>
             <div class="card border border-gray-300 rounded p-4 hover:shadow-lg transition-transform transform hover:scale-105" style="background-color: #81D8D0;">
                 <h3 class="font-semibold">Janar</h3>
                 <p><strong>Tanggal:</strong> 2024-10-20</p>
                 <p><strong>Deskripsi:</strong> Cuci dan Setrika.</p>
+                <p><strong>No Telepon:</strong> 081238278885</p>
             </div>
             <div class="card border border-gray-300 rounded p-4 hover:shadow-lg transition-transform transform hover:scale-105" style="background-color: #81D8D0;">
                 <h3 class="font-semibold">Janardana</h3>
                 <p><strong>Tanggal:</strong> 2024-10-20</p>
                 <p><strong>Deskripsi:</strong> Setrika.</p>
+                <p><strong>No Telepon:</strong> 081238278886</p>
             </div>
         </div>
         <div class="text-center mt-4 text-lg text-gray-500 hidden" id="no-data-message">
